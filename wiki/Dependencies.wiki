@@ -1,4 +1,4 @@
-#summary What you need to already have working.
+#summary What needs to already be working.
 
 = Introduction =
 
